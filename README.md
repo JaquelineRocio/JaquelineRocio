@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaqueline</h1>
-<h3 align="center">A passionate frontend developer from Perú</h3>
+<h3 align="center">A passionate frontend developer and Systems Engineer from Perú</h3>
 
 
 - 📫 How to reach me **jaquelineramosvargas@gmail.com**
